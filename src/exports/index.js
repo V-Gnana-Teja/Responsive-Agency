@@ -1,4 +1,4 @@
-index.js
+
 import { code, db, globe, lock } from "../assets/icons";
 import client1 from '../assets/images/client1.png'
 import client2 from '../assets/images/client2.png'
